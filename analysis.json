@@ -1,0 +1,5 @@
+[warning] The value of the local variable 'appUpdateInfo' isn't used (D:\codepoint\research\updater\lib\src\update_manager.dart:110:13)
+[info] Use a function declaration rather than a variable assignment to bind a function to a name (D:\codepoint\research\updater\lib\src\update_manager.dart:137:11)
+[info] Use a function declaration rather than a variable assignment to bind a function to a name (D:\codepoint\research\updater\lib\src\update_manager.dart:162:11)
+[info] Don't use 'BuildContext's across async gaps (D:\codepoint\research\updater\lib\src\update_manager.dart:174:9)
+[info] Don't use 'BuildContext's across async gaps (D:\codepoint\research\updater\lib\src\update_manager.dart:181:9)
