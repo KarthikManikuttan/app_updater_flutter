@@ -23,18 +23,11 @@ dev_dependencies:
   flutter_lints: ^6.0.0
 
 topics:
-  - flutter
   - update
-  - store
   - android
   - ios
   - app-store
   - play-store
-  - in-app-update
-  - package-info-plus
-  - pub-semver
-  - shared-preferences
-  - url-launcher
 
 platforms:
   android: 
