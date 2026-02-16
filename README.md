@@ -25,16 +25,6 @@ Supports Android (Google Play) and iOS (App Store) with advanced scraping, nativ
   - **PopScope Control**: Fine-grained control over back-button behavior (`canPopScope`, `onPopInvoked`).
   - **Styling**: Configure text styles for all action buttons.
 
-## Installation 📦
-
-Add the dependency to your `pubspec.yaml`:
-
-```yaml
-dependencies:
-  updater:
-    git: https://github.com/your-repo/updater.git
-```
-
 ## Usage 🛠️
 
 ### 1. Basic Usage (Declarative) - Recommended
