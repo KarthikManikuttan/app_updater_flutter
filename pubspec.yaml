@@ -1,6 +1,6 @@
 name: app_updater_flutter
 description: A robust, modular update checker for Flutter. Supports Android (Play Store) & iOS (App Store) with native UI, scraping fallback, and custom JSON sources.
-repository: https://github.com/KarthikManikuttan/updater.git
+repository: https://github.com/KarthikManikuttan/app_updater_flutter.git
 version: 1.0.0
 
 environment:
