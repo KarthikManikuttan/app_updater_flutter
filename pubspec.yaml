@@ -33,4 +33,12 @@ platforms:
   android: 
   ios: 
 
-lisence: MIT
+screenshots:
+  - description: "Android update dialog"
+    path: screenshots/android_update_dialog.png
+  - description: "iOS update dialog"
+    path: screenshots/ios_update_dialog.png
+
+
+
+license: MIT
