@@ -1,6 +1,9 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:pub_semver/pub_semver.dart';
-import 'package:updater/src/models.dart';
+import 'package:app_updater_flutter/src/models.dart';
+import 'package:app_updater_flutter/src/update_config.dart';
+import 'package:app_updater_flutter/src/update_manager.dart';
+import 'package:app_updater_flutter/src/updater_impl.dart';
 
 void main() {
   group('SemverVersionParser', () {

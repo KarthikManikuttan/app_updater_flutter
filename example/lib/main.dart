@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:updater/updater.dart';
+import 'package:app_updater_flutter/app_updater_flutter.dart';
 
 void main() {
   runApp(const ExampleApp());

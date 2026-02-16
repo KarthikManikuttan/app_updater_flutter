@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart'; // Add shared_preferences
 
 import '../update_controller.dart';
-import '../../updater.dart';
+import '../../app_updater_flutter.dart';
 
 /// A builder that **replaces the entire [UpgradeCard] content**
 /// with a custom widget.

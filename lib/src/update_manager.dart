@@ -8,7 +8,7 @@ import 'package:in_app_update/in_app_update.dart';
 import 'package:package_info_plus/package_info_plus.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
-import '../updater.dart';
+import '../app_updater_flutter.dart';
 import 'update_controller.dart';
 
 /// The core update-checking engine.

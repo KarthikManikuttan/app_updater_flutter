@@ -9,7 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  updater:
+  app_updater_flutter:
     path: ../
 
 
