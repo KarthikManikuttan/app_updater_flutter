@@ -305,9 +305,14 @@ class UpdateManager {
           Text(
             messages.message(UpdaterMessage.releaseNotes),
             style: const TextStyle(fontWeight: FontWeight.bold),
+            textAlign: TextAlign.left,
           ),
           const SizedBox(height: 4),
-          Text(info.releaseNotes!, style: const TextStyle(fontSize: 13)),
+          Text(
+            info.releaseNotes!,
+            style: const TextStyle(fontSize: 13),
+            textAlign: TextAlign.left,
+          ),
         ],
       ],
     );
